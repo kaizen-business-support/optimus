@@ -95,3 +95,4 @@ For technical support, contact: support@kaizen-corporation.com
 ---
 
 © 2025 Kaizen Business Support - Tous droits réservés"# optimus" 
+"# testoptimus" 
